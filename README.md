@@ -42,24 +42,24 @@
 
 ##### 固件下载链接
 
-- [Lienol_23.05固件地址](https://op.dllkids.xyz/op/firmware/Lienol/)
+- [Lienol_25.12固件地址](https://op.dllkids.xyz/op/firmware/Lienol/)
 - [Lean固件地址](https://op.dllkids.xyz/op/firmware/Lean/)
-- [immortalwrt-23.05固件](https://op.dllkids.xyz/op/firmware/ctc_23.05/)
-- [immortalwrt-18.06固件](https://op.dllkids.xyz/op/firmware/ctc_18.06/)
+- [immortalwrt-25.12固件](https://op.dllkids.xyz/op/firmware/ctc_25.12/)
+- [immortalwrt-24.10固件](https://op.dllkids.xyz/op/firmware/ctc_24.10/)
 - [nanopi-r5s固件下载](https://op.dllkids.xyz/op/firmware/nanopi-r5s/)
-- [nanopi-r4s固件下载](https://op.dllkids.xyz/op/firmware/nanopi-r4s/)
+- [nanopi-r6s固件下载](https://op.dllkids.xyz/op/firmware/nanopi-r6s/)
 
 ### 默认插件包含:
 
-+ adguardhome
-+ alist
 + Mosdns
 + openclash
-+ SSR Plus 
++ SSR Plus
++ homeproxy
++ mihomo
 + 动态DDNS
 + UPNP 自动端口转发
 + 默认多个主题
-+ 默认管理 IP: 192.168.1.252, 用户名 root，密码 password
++ 默认管理 IP: 192.168.1.251, 用户名 root，密码 password
 
 * 修改默认ip
 
